@@ -1,0 +1,217 @@
+Location,postal_town,city,county,country,lat,lng,confidence
+"NHS Airedale, Wharfedale and Craven CCG",Keighley,West Yorkshire,West Yorkshire,GB,53.8998162,-1.9500015,9
+NHS Ashford CCG,,Canterbury,,GB,51.2839179,1.0919829,9
+NHS Aylesbury Vale CCG,Aylesbury,Aylesbury,,GB,51.8223943,-0.826438,9
+NHS Barking and Dagenham CCG,Barking,Barking,Greater London,GB,51.5384716,0.0786318,9
+NHS Barnet CCG,London,London,Greater London,GB,51.6254278,-0.1524428,9
+NHS Barnsley CCG,Barnsley,Barnsley,South Yorkshire,GB,53.5590614,-1.4965227,9
+NHS Basildon and Brentwood CCG,Basildon,Basildon,Essex,GB,51.59115809999999,0.4953693,9
+NHS Bassetlaw CCG,Retford,Retford,Nottinghamshire,GB,53.32634470000001,-0.9544346,9
+NHS Bath and North East Somerset CCG,Bath,Trust HQ,Bath and North East Somerset,GB,51.35778699999999,-2.372918,9
+NHS Bedfordshire CCG,Bedford,Bedford,,GB,52.0085361,-0.4082652,9
+NHS Bexley CCG,Bexleyheath,Bexleyheath,Greater London,GB,51.455779,0.1535,9
+NHS Birmingham CrossCity CCG,Birmingham,Birmingham,,GB,52.4726473,-1.9086401,9
+NHS Birmingham South and Central CCG,Birmingham,Birmingham,,GB,52.4726473,-1.9086401,9
+NHS Blackburn with Darwen CCG,Blackburn,Blackburn,Blackburn with Darwen,GB,53.7333426,-2.4554068,9
+NHS Blackpool CCG,Blackpool,Blackpool,,GB,53.8055883,-3.0490434,9
+NHS Bolton CCG,Bolton,Bolton,,GB,53.5784335,-2.424152,9
+NHS Bracknell and Ascot CCG,Windsor,Windsor,Windsor and Maidenhead,GB,51.4733077,-0.6155565,9
+NHS Bradford City CCG,Bradford,Bradford,West Yorkshire,GB,53.79619599999999,-1.7490562,9
+NHS Bradford Districts CCG,Bradford,Bradford,West Yorkshire,GB,53.79619599999999,-1.7490562,9
+NHS Brent CCG,Wembley,Wembley,Greater London,GB,51.55018279999999,-0.3058747,9
+NHS Brighton and Hove CCG,Hove,Hove,The City of Brighton and Hove,GB,50.8284646,-0.1704034,9
+NHS Bristol CCG,Bristol,Bristol,City of Bristol,GB,51.4600794,-2.5915505,9
+NHS Bromley CCG,Beckenham,Beckenham,,GB,51.4052254,-0.0327132,9
+NHS Bury CCG,,Bury,,GB,53.5903634,-2.2990366,9
+NHS Calderdale CCG,Halifax,Halifax,West Yorkshire,GB,53.7292071,-1.8668751,9
+NHS Cambridgeshire and Peterborough CCG,Cambridge,Cambridge,Cambridgeshire,GB,52.1915017,0.1328335,9
+NHS Camden CCG,London,London,Greater London,GB,51.5253582,-0.1392636,9
+NHS Cannock Chase CCG,Cannock,Cannock,,GB,52.69214969999999,-2.0277339,9
+NHS Canterbury and Coastal CCG,,Canterbury,,GB,51.2839179,1.0919829,9
+NHS Castle Point and Rochford CCG,Rayleigh,Rayleigh,Essex,GB,51.58403509999999,0.6029391,9
+NHS Central London (Westminster) CCG,London,London,Greater London,GB,51.5228933,-0.1515062,9
+NHS Chiltern CCG,Amersham,Amersham,,GB,51.675089,-0.6020449999999999,9
+NHS Chorley and South Ribble CCG,Leyland,Leyland,Lancashire,GB,53.7080745,-2.6950065,9
+NHS City and Hackney CCG,London,London,Greater London,GB,51.534068,-0.07735199999999999,9
+NHS Coastal West Sussex CCG,Worthing,Worthing,,GB,50.81813229999999,-0.4111287,9
+NHS Corby CCG,Corby,Corby,Northamptonshire,GB,52.5035397,-0.6467489,9
+NHS Coventry and Rugby CCG,Coventry,Coventry,West Midlands,GB,52.4009918,-1.5093217,9
+NHS Crawley CCG,Crawley,Crawley,,GB,51.1168813,-0.1956361,9
+NHS Croydon CCG,Croydon,Croydon,,GB,51.3716105,-0.09981849999999999,9
+NHS Darlington CCG,Darlington,Darlington,Darlington,GB,54.526985,-1.5563729,9
+"NHS Dartford, Gravesham and Swanley CCG",Gravesend,Gravesend,Kent,GB,51.43981480000001,0.3683565,9
+NHS Doncaster CCG,Doncaster,Doncaster,,GB,53.51091599999999,-1.130409,9
+NHS Dorset CCG,,Dorchester,,GB,50.714817,-2.4443948,9
+NHS Dudley CCG,Brierley Hill,Brierley Hill,,GB,52.4822783,-2.1176882,9
+"NHS Durham Dales, Easington and Sedgefield CCG",Stockton-on-Tees,Sedgefield,County Durham,GB,54.6627942,-1.4510857,9
+NHS Ealing CCG,London,London,Greater London,GB,51.5132043,-0.3088468,9
+NHS East and North Hertfordshire CCG,Welwyn Garden City,Welwyn Garden City,Hertfordshire,GB,51.8027866,-0.2079113,9
+NHS East Lancashire CCG,Nelson,Nelson,Lancashire,GB,53.8478939,-2.2027181,9
+NHS East Leicestershire and Rutland CCG,Leicester,Leicester,,GB,52.656051,-1.187831,9
+NHS East Riding of Yorkshire CCG,Hull,Hull,,GB,53.7632579,-0.4541516,9
+NHS East Staffordshire CCG,Burton-on-Trent,Burton-on-Trent,,GB,52.79481639999999,-1.6698168,9
+NHS East Surrey CCG,Oxted,Oxted,Surrey,GB,51.25718579999999,-0.0002693,9
+"NHS Eastbourne, Hailsham and Seaford CCG",,Seaford,East Sussex,GB,50.7734669,0.101108,6
+NHS Eastern Cheshire CCG,Macclesfield,Macclesfield,Cheshire East,GB,53.2624149,-2.1386522,9
+NHS Enfield CCG,Barnet,Barnet,Greater London,GB,51.6506762,-0.1484198,9
+NHS Erewash CCG,Ilkeston,Ilkeston,Derbyshire,GB,52.9673999,-1.3082096,9
+NHS Fareham and Gosport CCG,Fareham,Portsmouth,Portsmouth,GB,50.8576327,-1.1075926,9
+NHS Fylde and Wyre CCG,Preston,Wesham,Lancashire,GB,53.78840899999999,-2.88114,9
+NHS Gloucestershire CCG,Gloucester,Brockworth,Gloucestershire,GB,51.8487636,-2.1752663,9
+NHS Great Yarmouth and Waveney CCG,Beccles,Beccles,Suffolk,GB,52.4618243,1.567442,9
+NHS Greater Huddersfield CCG,Huddersfield,Huddersfield,West Yorkshire,GB,53.645792,-1.7850351,4
+NHS Greater Preston CCG,Leyland,Leyland,Lancashire,GB,53.7080745,-2.6950065,9
+NHS Greenwich CCG,London,London,Greater London,GB,51.4891578,0.06494169999999999,9
+NHS Guildford and Waverley CCG,Guildford,Guildford,,GB,51.238282,-0.5758227,9
+NHS Halton CCG,Runcorn,Runcorn,,GB,53.33387339999999,-2.7232763,9
+"NHS Hambleton, Richmondshire and Whitby CCG",Northallerton,Northallerton,,GB,54.3484472,-1.4334493,9
+NHS Hammersmith and Fulham CCG,London,London,Greater London,GB,51.5228364,-0.1514422,9
+"NHS Hardwick Clinical Commission Group, Chesterfield, S41 7PF, UK",Chesterfield,Chesterfield,,GB,53.23935050000001,-1.4303734,9
+NHS Haringey CCG,London,London,Greater London,GB,51.5975763,-0.1105569,9
+NHS Harrogate and Rural District CCG,Knaresborough,Knaresborough,North Yorkshire,GB,54.0015729,-1.4437392,9
+NHS Harrow CCG,Harrow,Harrow,,GB,51.5791912,-0.3381862,9
+NHS Hartlepool and Stockton-on-Tees CCG,Billingham,Billingham,,GB,54.6081999,-1.2947803,9
+NHS Hastings and Rother CCG,Bexhill-on-Sea,Bexhill-on-Sea,,GB,50.8507207,0.4755087,9
+NHS Havering CCG,Romford,Romford,Greater London,GB,51.57528569999999,0.1839115,9
+NHS Herefordshire CCG,Hereford,Hereford,Herefordshire,GB,52.0550228,-2.7123162,9
+NHS Herts Valleys CCG,Hemel Hempstead,Hemel Hempstead,Hertfordshire,GB,51.76464619999999,-0.4310445,9
+"NHS Heywood, Middleton and Rochdale CCG",Rochdale,Number One Riverside,Greater Manchester,GB,53.6175153,-2.1540241,9
+NHS High Weald Lewes Havens CCG,Lewes,Lewes,East Sussex,GB,50.8732811,0.0141551,9
+NHS Hillingdon CCG,Uxbridge,Uxbridge,Greater London,GB,51.5440613,-0.4783353,9
+NHS Horsham and Mid Sussex CCG,Crawley,Crawley,,GB,51.1168813,-0.1956361,9
+NHS Hounslow CCG,Hounslow,Hounslow,Greater London,GB,51.4744075,-0.3678757,9
+NHS Hull CCG,Hull,Hull,Kingston upon Hull,GB,53.744961,-0.3303724,9
+NHS Ipswich and East Suffolk CCG,Ipswich,Ipswich,Suffolk,GB,52.0539889,1.1434468,9
+NHS Isle of Wight CCG,Newport,Newport,,GB,50.7126724,-1.2947171,9
+NHS Islington CCG,London,London,Greater London,GB,51.54532349999999,-0.1045526,9
+NHS Kernow CCG,Saint Austell,Saint Austell,,GB,50.3397699,-4.7947613,9
+"NHS Kingston Clinical Commissioning Group, Teddington, TW11 8HU, UK",Teddington,Teddington,Greater London,GB,51.4275441,-0.3260471,9
+NHS Knowsley CCG,Liverpool,Liverpool,,GB,53.4103621,-2.8409412,9
+NHS Lambeth CCG,London,London,Greater London,GB,51.50003580000001,-0.1138893,9
+NHS Leeds North CCG,Leeds,Leeds,,GB,53.8386876,-1.610789,9
+NHS Leeds South and East CCG,Leeds,Leeds,West Yorkshire,GB,53.797088,-1.42567,9
+NHS Leeds West CCG,Leeds,Leeds,,GB,53.8386876,-1.610789,9
+NHS Leicester City CCG,Leicester,Leicester,Leicester,GB,52.6310033,-1.1270716,9
+NHS Lewisham CCG,London,London,,GB,51.4447056,-0.0210318,9
+NHS Lincolnshire East CCG,Lincoln,Bracebridge Heath,Lincolnshire,GB,53.1982589,-0.5403586,9
+NHS Lincolnshire West CCG,Lincoln,Bracebridge Heath,Lincolnshire,GB,53.1988356,-0.5404584000000001,9
+NHS Liverpool CCG,Liverpool,Liverpool,Merseyside,GB,53.4047431,-2.978062,9
+NHS Luton CCG,Luton,Luton,,GB,51.8806106,-0.4169762,9
+NHS Manchester CCG,Manchester,Manchester,Greater Manchester,GB,53.4476849,-2.2452403,9
+NHS Mansfield and Ashfield CCG,Masnfield,Rainworth,Nottinghamshire,GB,53.1286435,-1.1481306,9
+NHS Medway CCG,,Chatham,,GB,51.3989435,0.5382473,9
+NHS Merton CCG,London,London,Greater London,GB,51.41938690000001,-0.2001506,9
+NHS Mid Essex CCG,Chelmsford,Chelmsford,,GB,51.7496999,0.5086137,9
+NHS Milton Keynes CCG,Milton Keynes,Milton Keynes,,GB,52.000937,-0.7394609999999999,9
+"NHS Morecambe Bay Clinical Commission Group, Preston, PR26 6TR, UK",Leyland,Leyland,Lancashire,GB,53.7080745,-2.6950065,9
+NHS Nene CCG,Northampton,Moulton Park,Northamptonshire,GB,52.2768171,-0.8730561,9
+NHS Newark and Sherwood CCG,Newark,Balderton,Nottinghamshire,GB,53.0531661,-0.7877479,9
+NHS Newbury and District CCG,Knaresborough,Knaresborough,North Yorkshire,GB,54.0015729,-1.4437392,9
+NHS Newcastle Gateshead CCG,Newcastle upon Tyne,Newcastle upon Tyne,,GB,54.9696784,-1.7127091,9
+NHS Newham CCG,London,London,,GB,51.5400923,-0.001498,9
+NHS North and West Reading CCG,Reading,Reading,Reading,GB,51.4468653,-0.9985014000000001,9
+"NHS North Cumbria Clinical Commission Group, Penrith, CA1 2SE, UK",Penrith,Carlisle,Cumbria,GB,54.65707099999999,-2.742912,9
+NHS North Derbyshire CCG,Derby,Derby,Derby,GB,52.92560839999999,-1.4682589,9
+NHS North Durham CCG,Durham,Durham,County Durham,GB,54.7880004,-1.5798772,9
+NHS North East Essex CCG,,Colchester,,GB,51.9220433,0.9305798000000001,9
+NHS North East Hampshire and Farnham CCG,Aldershot,Aldershot,Hampshire,GB,51.2542453,-0.7661282,9
+NHS North East Lincolnshire CCG,,Grimsby,,GB,53.5652571,-0.08124189999999999,9
+NHS North Hampshire CCG,Basingstoke,Chineham,Hampshire,GB,51.2948007,-1.0655446,9
+NHS North Kirklees CCG,Dewsbury,Dewsbury,West Yorkshire,GB,53.6920183,-1.6267128,9
+NHS North Lincolnshire CCG,Brigg,Brigg,,GB,53.5528144,-0.4858907,9
+NHS North Norfolk CCG,Norwich,Norwich,,GB,52.6293576,1.3717707,9
+NHS North Somerset CCG,Clevedon,Clevedon,,GB,51.4410748,-2.8169762,9
+NHS North Staffordshire CCG,,Stoke,,GB,53.0219014,-2.1781229,9
+NHS North Tyneside CCG,North Shields,North Shields,Tyne and Wear,GB,55.0098557,-1.490358,9
+NHS North West Surrey CCG,Weybridge,Weybridge,Surrey,GB,51.37283540000001,-0.4618268,9
+"NHS Northern, Eastern and Western Devon CCG",Exeter,Exeter,,GB,50.7022493,-3.4779071,9
+NHS Northumberland CCG,Morpeth,Morpeth,Northumberland,GB,55.15293279999999,-1.6839652,9
+NHS Norwich CCG,Norwich,Norwich,Norfolk,GB,52.6285345,1.2916276,9
+NHS Nottingham City CCG,Nottingham,Nottingham,Nottinghamshire,GB,52.9517892,-1.1558228,9
+NHS Nottingham North and East CCG,Nottingham,Arnold,Nottinghamshire,GB,52.9975089,-1.1335025,9
+NHS Nottingham West CCG,Nottingham,Stapleford,Nottinghamshire,GB,52.9303487,-1.2730217,9
+"NHS Oldham Clinical Commissioning Group, Oldham, OL9 6EE, UK",Oldham,Oldham,Greater Manchester,GB,53.5482051,-2.1302583,9
+NHS Oxfordshire CCG,Oxford,Oxford,Oxfordshire,GB,51.729095,-1.2080863,9
+NHS Portsmouth CCG,Southsea,Southsea,,GB,50.79415239999999,-1.049124,9
+NHS Redbridge CCG,Ilford,Ilford,Greater London,GB,51.5568402,0.0666476,9
+NHS Redditch and Bromsgrove CCG,Bromsgrove,Bromsgrove,Worcestershire,GB,52.3516718,-2.0588207,9
+NHS Richmond CCG,Teddington,Teddington,Greater London,GB,51.4275441,-0.3260471,9
+NHS Rotherham CCG,Rotherham,Bramley,South Yorkshire,GB,53.4207787,-1.2546232,9
+NHS Rushcliffe CCG,Nottingham,Ruddington,Nottinghamshire,GB,52.89412100000001,-1.141141,9
+NHS Salford CCG,Salford,Salford,Greater Manchester,GB,53.4904585,-2.2879887,9
+NHS Sandwell and West Birmingham CCG,West Bromwich,West Bromwich,West Midlands,GB,52.523248,-2.002354,9
+NHS Scarborough and Ryedale CCG,Scarborough,Scarborough,,GB,54.2817562,-0.398283,9
+NHS Sheffield CCG,Sheffield,Sheffield,South Yorkshire,GB,53.3827721,-1.41073,9
+NHS Shropshire CCG,Shrewsbury,Shrewsbury,Shropshire,GB,52.70583329999999,-2.789378,9
+"NHS Slough Clinical Commissioning Group, Windsor, SL4 3DP, UK",Windsor,Windsor,,GB,51.47354310000001,-0.614707,9
+NHS Solihull CCG,Birmingham,Birmingham,,GB,52.4726473,-1.9086401,9
+NHS Somerset CCG,Yeovil,Lufton,Somerset,GB,50.949011,-2.6768347,9
+NHS South Cheshire CCG,Nantwich,Nantwich,,GB,53.07567599999999,-2.5186481,9
+NHS South Devon and Torbay CCG,Torquay,Torquay,Torbay,GB,50.48467429999999,-3.5684144,9
+NHS South East Staffordshire and Seisdon Peninsula CCG,Tamworth,Tamworth,Staffordshire,GB,52.634299,-1.6979777,9
+NHS South Eastern Hampshire CCG,Fareham,Portsmouth,Portsmouth,GB,50.8576327,-1.1075926,9
+NHS South Gloucestershire CCG,Bristol,Avon,,GB,51.45724149999999,-2.4745997,9
+NHS South Kent Coast CCG,Dover,Dover,,GB,51.154494,1.294408,9
+NHS South Lincolnshire CCG,,Sleaford,,GB,53.0093597,-0.3923007,9
+NHS South Norfolk CCG,Norwich,Norwich,Norfolk,GB,52.6301058,1.3723684,9
+NHS South Reading CCG,Reading,Reading,Reading,GB,51.4468653,-0.9985014000000001,9
+NHS South Sefton CCG,Bootle,Bootle,Merseyside,GB,53.4482466,-2.9902754,9
+NHS South Tees CCG,Middlesbrough,Middlesbrough,Middlesbrough,GB,54.5717306,-1.2162083,9
+NHS South Tyneside CCG,Jarrow,Jarrow,,GB,54.9664963,-1.5030263,9
+NHS South Warwickshire CCG,Warwick,Warwick,Warwickshire,GB,52.281037,-1.5907582,9
+NHS South West Lincolnshire CCG,,Sleaford,,GB,53.009463,-0.3924037,9
+NHS South Worcestershire CCG,Worcester,Perdiswell,Worcestershire,GB,52.2164126,-2.2158357,9
+NHS Southampton CCG,Southampton,Southampton,,GB,50.9233588,-1.4487763,9
+NHS Southend CCG,Southend-on-Sea,Southend-on-Sea,Southend-on-Sea,GB,51.5455871,0.7060873,9
+NHS Southern Derbyshire CCG,Derby,Derby,Derby,GB,52.92560839999999,-1.4682589,9
+NHS Southport and Formby CCG,Southport,Southport,Merseyside,GB,53.6390064,-2.9849602,9
+NHS Southwark CCG,London,London,Greater London,GB,51.50344399999999,-0.08058499999999999,9
+NHS St Helens CCG,Saint Helens,Saint Helens,Merseyside,GB,53.449422,-2.732666,9
+NHS Stafford and Surrounds CCG,Tamworth,Tamworth,Staffordshire,GB,52.634299,-1.6979777,9
+NHS Stockport CCG,Stockport,Stockport,Greater Manchester,GB,53.4066997,-2.1574484,9
+NHS Stoke on Trent CCG,Stoke-on-Trent,Stoke-on-Trent,,GB,53.02167559999999,-2.1783088,9
+NHS Sunderland CCG,Sunderland,Sunderland,,GB,54.91466339999999,-1.4374411,9
+NHS Surrey Downs CCG,Leatherhead,Fetcham,Surrey,GB,51.2930643,-0.3349837,9
+NHS Surrey Heath CCG,Camberley,Camberley,Surrey,GB,51.33944049999999,-0.7430099,9
+NHS Sutton CCG,Sutton,Sutton,Greater London,GB,51.3691014,-0.2233036,9
+NHS Swale CCG,Sittingbourne,Sittingbourne,,GB,51.36167,0.7357559,9
+NHS Swindon CCG,Swindon,Blunsdon St Andrew,Swindon,GB,51.60339099999999,-1.7864291,9
+NHS Tameside and Glossop CCG,Manchester,Manchester,Greater Manchester,GB,53.487343,-2.240074,9
+NHS Telford and Wrekin CCG,Telford,Telford,Shropshire,GB,52.6426951,-2.4231714,9
+NHS Thanet CCG,Margate,Margate,Kent,GB,51.3872735,1.38232,9
+NHS Thurrock CCG,,Grays,,GB,51.4756751,0.3247842,9
+NHS Tower Hamlets CCG,London,London,,GB,51.5245532,-0.042878,9
+NHS Trafford CCG,Sale,Sale,,GB,53.42723849999999,-2.3239247,9
+NHS Vale of York CCG,York,York,York,GB,53.9586148,-1.0888701,9
+NHS Vale Royal CCG,Nantwich,Nantwich,,GB,53.07567599999999,-2.5186481,9
+NHS Wakefield CCG,Wakefield,Wakefield,West Yorkshire,GB,53.6801877,-1.4963808,9
+NHS Walsall CCG,Walsall,Walsall,,GB,52.5961884,-2.0145605,9
+NHS Waltham Forest CCG,London,London,Greater London,GB,51.5695091,0.0096879,9
+NHS Wandsworth CCG,London,London,Greater London,GB,51.4588709,-0.2100319,9
+NHS Warrington CCG,Warrington,Birchwood,Warrington,GB,53.413523,-2.533597,9
+NHS Warwickshire North CCG,Nuneaton,Nuneaton,,GB,52.5232935,-1.4676562,9
+NHS West Cheshire CCG,Chester,Chester,Cheshire West and Chester,GB,53.2114775,-2.8986212,9
+NHS West Essex CCG,Epping,Epping,,GB,51.7031305,0.1239259,9
+NHS West Hampshire CCG,Eastleigh,Eastleigh,Hampshire,GB,50.9674258,-1.3510755,9
+NHS West Kent CCG,Tonbridge,Tonbridge,Kent,GB,51.1949104,0.2764821000000001,9
+NHS West Lancashire CCG,Ormskirk,Ormskirk,,GB,53.5667847,-2.8754509,9
+NHS West Leicestershire CCG,Loughborough,Loughborough,Leicestershire,GB,52.7697087,-1.2051236,9
+NHS West London CCG,London,London,Greater London,GB,51.5228478,-0.1516388,9
+NHS West Norfolk CCG,King's Lynn,King's Lynn,,GB,52.7565063,0.3967426,9
+NHS West Suffolk CCG,Ipswich,Ipswich,Suffolk,GB,52.0539889,1.1434468,9
+NHS Wigan Borough CCG,Wigan,Wigan,Greater Manchester,GB,53.544619,-2.6292499,9
+NHS Wiltshire CCG,Devizes,Devizes,,GB,51.3472393,-1.991542,9
+"NHS Windsor, Ascot and Maidenhead CCG",Windsor,Windsor,Windsor and Maidenhead,GB,51.4733077,-0.6155565,9
+NHS Wirral CCG,Birkenhead,Birkenhead,Merseyside,GB,53.39091149999999,-3.0163867,9
+NHS Wokingham CCG,Reading,Reading,Reading,GB,51.4468653,-0.9985014000000001,9
+NHS Wolverhampton CCG,Wolverhampton,Wolverhampton,West Midlands,GB,52.6028369,-2.1291971,9
+NHS Wyre Forest CCG,Kidderminster,Kidderminster,Worcestershire,GB,52.3879129,-2.2456709,9
+NHS Central Manchester CCG,Manchester,Manchester,Greater Manchester,GB,53.4476849,-2.2452403,9
+NHS Cumbria CCG,Penrith,Carlisle,Cumbria,GB,54.65707099999999,-2.742912,9
+NHS North Manchester CCG,Manchester,Manchester,Greater Manchester,GB,53.4476849,-2.2452403,9
+NHS South Manchester CCG,Manchester,Manchester,Greater Manchester,GB,53.4476849,-2.2452403,9
+NHS Coastal West Sussex,Worthing,Worthing,,GB,50.81813229999999,-0.4111287,9
+NHS Gateshead,Gateshead,Gateshead,Tyne and Wear,GB,54.944826,-1.6156585,9
+NHS Guildford and Waverley,Guildford,Guildford,,GB,51.238282,-0.5758227,9
+NHS Newcastle North and East,Newcastle upon Tyne,Newcastle upon Tyne,,GB,54.969674,-1.7127623,9
+NHS Newcastle West,Newcastle upon Tyne,High Heaton,Tyne and Wear,GB,55.0030284,-1.5929456,9
